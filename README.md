@@ -33,3 +33,5 @@ Game.java
 Check Assignment details for more information
 
 Created by: Runde Jia (Jerry) 2018 Macquarie University.
+
+Modified on VS CODE local desktop to test Github Merge
