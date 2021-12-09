@@ -36,7 +36,8 @@ Created by: Runde Jia (Jerry) 2018 Macquarie University.
 
 Modified on VS CODE local desktop to test Github Merge
 Desktop
+<<<<<<< HEAD
 
 2
 3
-45
+hi
